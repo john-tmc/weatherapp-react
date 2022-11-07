@@ -4,11 +4,13 @@
 * **[Webpack](https://webpack.js.org/)** (5.x)
 * **[Typescript](https://www.typescriptlang.org/)** (4.x)
 * **[Hot Module Replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)** + [Fast Refresh](https://github.com/pmmmwh/react-refresh-webpack-plugin)
+* **[GitHub Pages](https://pages.github.com/)** Directly publish react app to github pages using github actions
 * Image support ([Image Webpack Loader](https://github.com/tcoopman/image-webpack-loader))
 * [LESS](https://lesscss.org/) support
 * Production build script
 * Code linting ([ESLint](https://github.com/eslint/eslint)) and formatting ([Prettier](https://github.com/prettier/prettier))
 * Test frameworks ([Jest](https://facebook.github.io/jest/) + [React Testing Library](https://testing-library.com/docs/react-testing-library/intro))
+
 
 ## Requirements
 1. [Requirement Notes](.reqs/Instructions.pdf)
